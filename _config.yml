@@ -1,5 +1,4 @@
 logo: /port/pic.jpg
 title: Shivaditya Upadhyay
 description: Portfolio
-show_downloads: true
-theme: jekyll-theme-cayman #midnight , minima, slate
+theme: jekyll-theme-slate #midnight , minima, slate
