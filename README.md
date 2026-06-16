@@ -1,8 +1,7 @@
 
 
- 
-#### Data, AI and BI Specialist 
- ![Profile Picture](port/pic.jpg)
+  ![Profile Picture](port/pic.jpg)
+# Data, AI and BI Specialist 
  
 * [Mail now!](mailto:shiv45aditya@gmail.com)
 * [Download Resume](port/cv.pdf)                                                                                     
