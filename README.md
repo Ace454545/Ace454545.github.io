@@ -1,22 +1,32 @@
 
 # Shivaditya Upadhyay
+ ![Profile Picture](port/pic.jpg)
+#### Data, AI and BI Specialist 
+#### [Contact now!](mailto:shiv45aditya@gmail.com)
 
-#### Data, AI and BI Specialist [shiv45aditya@gmail.com](mailto:shiv45aditya@gmail.com)
-
-* [Download Resume](port/cv.pdf)                                                                                      ![Profile Picture](port/pic.jpg)
+* [Download Resume](port/cv.pdf)                                                                                     
 * [Testimonial](https://drive.google.com/file/d/1MFLmGetfQrPCuNGL7iZbHuMSQYcRX5nu/view)
 * [LinkedIn](https://www.linkedin.com/in/shivaditya-u/)
 
 
-### Currently a Student studying AI and Data Science in Saarbrücken
+### Currently a Student studying AI and Data Science Saarbrücken
 ![University Logo](port/US.png)
 
 
 ## Overview
 
-I solve business problems with the most optimal tech stack with a focus on efficiency. My background includes BI, ML, data engineering, and full-stack development, with published research in quantitative finance and algorithmic trading. 
+I solve business problems with the most optimal tech stack while prioritising efficiency and I'm currently looking for relevant opportunities. I'm proficient in English and German at C1 level, details are in my CV. I can travel frequently and I'm open to relocation within Germany. My background includes BI, ML, data engineering, and full-stack development, with published research in quantitative finance and algorithmic trading. You have tried the rest, now go with the best!
 
-## Technical Skills
+## Officially Certified by Leading Companies 
+###[View Certifications](https://drive.google.com/drive/folders/15718d5TXYdrOKzFnD1-cro0rJC7dkjW4?usp=sharing)
+
+![Microsoft](port/MS.png) ![Google](port/GO.jfif) ![NVIDIA](port/NV.png)
+![Anthropic](port/AN.png) ![IBM](port/IB.png) ![AWS](port/AW.png)
+
+
+## Technical Skills 
+
+### My experience with diverse tech stacks will allow me to transfer my learning, and hit the ground running at your organisation! More skills are listed in my CV.
 
 #### Languages & Scripting
 
@@ -28,21 +38,11 @@ Machine Learning, Deep Learning, NLP, Computer Vision, Data Engineering, Data An
 
 #### Tools & Platforms
 
-Azure, AWS, GCP, Docker, Kubernetes, Power BI, Tableau, PySpark, HuggingFace, Jupyter, Airflow, Kafka, LangChain, LangGraph, MLflow, Terraform, Postman, Prometheus
+Azure, AWS, GCP, Docker, Kubernetes, Power BI, Tableau, PySpark, HuggingFace, Jupyter, Airflow, Kafka, LangChain, N8n, LangGraph, MLflow, Terraform, Postman, Prometheus
 
 #### Libraries & Frameworks
 
 Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow, Fastai, Django, Flask, SQLAlchemy, XGBoost, Keras, Celery, Redis, ONNX, Vue.js
-
-#### Languages
-
-* English (IELTS 8)
-* German (C1)
-* French (A1)
-
-## Officially Certified by Leading Companies
-
-![Microsoft](port/MS.png) ![Google](port/GO.jfif) ![NVIDIA](port/NV.png) ![Anthropic](port/AN.png) ![IBM](port/IB.png) ![AWS](port/AW.png)
 
 
 ## Work Experience
@@ -53,15 +53,16 @@ Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow, Fastai, Django, Flask, SQLAlch
 * Remote
 * Worked on AI, analytics, and business intelligence initiatives.
 
-**Data Engineer Contractor @ LTIMindtree (*August 2024 – February 2025*)**                                                                    ![LTIMindtree](port/LT.png)
-
-* Pune, India
-* Developed and maintained data engineering solutions and pipelines.
 
 **Software Engineer Intern @ Kreativstorm LLC (*February 2025 – March 2025*)**                                                                ![Kreativstorm](port/KS.jfif)
 
 * Remote
 * Contributed to software engineering and development projects.
+
+**Data Engineer Contractor @ LTIMindtree (*August 2024 – February 2025*)**                                                                    ![LTIMindtree](port/LT.png)
+
+* Pune, India
+* Developed and maintained data engineering solutions and pipelines.
 
 ## Projects & Research
 
@@ -76,3 +77,5 @@ Research focused on improving passive index investing strategies by integrating 
 [Under Review](https://drive.google.com/file/d/1BHMVJJbDhD4owDgeNsDkaY_lHaH9qGz-/view?usp=sharing)
 
 Developed an automated framework combining the Black-Litterman asset allocation model with machine learning techniques for algorithmic stock trading and portfolio optimization.
+
+  ## Still not sure? Go through my [Testimonial](https://drive.google.com/file/d/1MFLmGetfQrPCuNGL7iZbHuMSQYcRX5nu/view)
