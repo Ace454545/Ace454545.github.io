@@ -1,8 +1,3 @@
----
-
-layout: default
-title: Shivaditya Upadhyay
---------------------------
 
 # Shivaditya Upadhyay
 
