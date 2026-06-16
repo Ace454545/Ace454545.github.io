@@ -2,8 +2,7 @@
 # Shivaditya Upadhyay
  ![Profile Picture](port/pic.jpg)
 #### Data, AI and BI Specialist 
-#### [Contact now!](mailto:shiv45aditya@gmail.com)
-
+* [Mail now!](mailto:shiv45aditya@gmail.com)
 * [Download Resume](port/cv.pdf)                                                                                     
 * [Testimonial](https://drive.google.com/file/d/1MFLmGetfQrPCuNGL7iZbHuMSQYcRX5nu/view)
 * [LinkedIn](https://www.linkedin.com/in/shivaditya-u/)
@@ -51,7 +50,7 @@ Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow, Fastai, Django, Flask, SQLAlch
 **Business Intelligence Specialist – AI and Data @ Enpal GmbH (*March 2025 – January 2026*)**                                                 ![Enpal](port/EN.jfif)
 
 * Remote
-* Worked on AI, analytics, and business intelligence initiatives.
+* Worked as a team leader on AI, analytics, and business intelligence initiatives.
 
 
 **Software Engineer Intern @ Kreativstorm LLC (*February 2025 – March 2025*)**                                                                ![Kreativstorm](port/KS.jfif)
@@ -78,4 +77,4 @@ Research focused on improving passive index investing strategies by integrating 
 
 Developed an automated framework combining the Black-Litterman asset allocation model with machine learning techniques for algorithmic stock trading and portfolio optimization.
 
-  ## Still not sure? Go through my [Testimonial](https://drive.google.com/file/d/1MFLmGetfQrPCuNGL7iZbHuMSQYcRX5nu/view)
+## Still not sure? Go through my [Testimonial](https://drive.google.com/file/d/1MFLmGetfQrPCuNGL7iZbHuMSQYcRX5nu/view)
