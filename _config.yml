@@ -1,5 +1,14 @@
 title: Shivaditya Upadhyay
-#logo:
-description: Portfolio
-show_downloads: True
-theme: jekyll-theme-cayman #midnight , minima, slate
+#logo
+description: Student in Saarbruecken | AI, data, analytics, and software engineering
+theme: jekyll-theme-cayman
+show_downloads: true
+github:
+  is_project_page: false
+  is_user_page: true
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+plugins:
+  - jekyll-seo-tag
