@@ -18,7 +18,7 @@
 I solve business problems with the most optimal tech stack while prioritising efficiency and I'm currently looking for relevant opportunities. I'm proficient in English and German at C1 level, details are in my CV. I can travel frequently and I'm open to relocation within Germany. My background includes BI, ML, data engineering, and full-stack development, with published research in quantitative finance and algorithmic trading. You have tried the rest, now go with the best!
 
 ## Officially Certified by Leading Companies 
-###[View Certifications](https://drive.google.com/drive/folders/15718d5TXYdrOKzFnD1-cro0rJC7dkjW4?usp=sharing)
+### [View Certifications](https://drive.google.com/drive/folders/15718d5TXYdrOKzFnD1-cro0rJC7dkjW4?usp=sharing)
 
 ![Microsoft](port/MS.png) ![Google](port/GO.jfif) ![NVIDIA](port/NV.png)
 ![Anthropic](port/AN.png) ![IBM](port/IB.png) ![AWS](port/AW.png)
