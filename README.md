@@ -1,7 +1,9 @@
 
-# Shivaditya Upadhyay
- ![Profile Picture](port/pic.jpg)
+
+ 
 #### Data, AI and BI Specialist 
+ ![Profile Picture](port/pic.jpg)
+ 
 * [Mail now!](mailto:shiv45aditya@gmail.com)
 * [Download Resume](port/cv.pdf)                                                                                     
 * [Testimonial](https://drive.google.com/file/d/1MFLmGetfQrPCuNGL7iZbHuMSQYcRX5nu/view)
