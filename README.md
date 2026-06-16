@@ -1,25 +1,20 @@
 
 # Shivaditya Upadhyay
 
-#### Student | Saarbruecken | [shiv45aditya@gmail.com](mailto:shiv45aditya@gmail.com)
+#### Data, AI and BI Specialist [shiv45aditya@gmail.com](mailto:shiv45aditya@gmail.com)
 
-* [Download Resume](port/cv.pdf)
+* [Download Resume](port/cv.pdf)                                                                                      ![Profile Picture](port/pic.jpg)
 * [Testimonial](https://drive.google.com/file/d/1MFLmGetfQrPCuNGL7iZbHuMSQYcRX5nu/view)
 * [LinkedIn](https://www.linkedin.com/in/shivaditya-u/)
 
-![Profile Picture](port/pic.jpg)
 
-## Current Role
-
-### Student
-
-Saarbruecken
-
+### Currently a Student studying AI and Data Science in Saarbrücken
 ![University Logo](port/US.png)
+
 
 ## Overview
 
-I solve business problems with data, AI, and software engineering across machine learning, cloud platforms, automation, and analytics. My background includes BI, data engineering, and full-stack development, with published research in quantitative finance and algorithmic trading.
+I solve business problems with the most optimal tech stack with a focus on efficiency. My background includes BI, ML, data engineering, and full-stack development, with published research in quantitative finance and algorithmic trading. 
 
 ## Technical Skills
 
@@ -45,69 +40,28 @@ Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow, Fastai, Django, Flask, SQLAlch
 * German (C1)
 * French (A1)
 
-## Certifications
+## Officially Certified by Leading Companies
 
-### Microsoft
+![Microsoft](port/MS.png) ![Google](port/GO.jfif) ![NVIDIA](port/NV.png) ![Anthropic](port/AN.png) ![IBM](port/IB.png) ![AWS](port/AW.png)
 
-* AI Engineer Certifications
-* Data Analyst Certifications
-* Cloud & Data Tooling Certifications
-
-![Microsoft](port/MS.png)
-
-### Google
-
-* Google Analytics Individual Qualification
-
-![Google](port/GO.jfif)
-
-### NVIDIA
-
-* RAG Agents with LLMs
-* Accelerated AI Workflows
-
-![NVIDIA](port/NV.png)
-
-### Anthropic
-
-* MCP with Claude
-
-![Anthropic](port/AN.png)
-
-### IBM
-
-* Fundamentals for Data Science in Industry
-
-![IBM](port/IB.png)
-
-### AWS
-
-* Basics of Cloud
-
-![AWS](port/AW.png)
 
 ## Work Experience
 
-**Business Intelligence Specialist – AI and Data @ Enpal GmbH (*March 2025 – January 2026*)**
+
+**Business Intelligence Specialist – AI and Data @ Enpal GmbH (*March 2025 – January 2026*)**                                                 ![Enpal](port/EN.jfif)
 
 * Remote
 * Worked on AI, analytics, and business intelligence initiatives.
 
-![Enpal](port/EN.jfif)
-
-**Data Engineer Contractor @ LTIMindtree (*August 2024 – February 2025*)**
+**Data Engineer Contractor @ LTIMindtree (*August 2024 – February 2025*)**                                                                    ![LTIMindtree](port/LT.png)
 
 * Pune, India
 * Developed and maintained data engineering solutions and pipelines.
 
-![LTIMindtree](port/LT.png)
-
-**Software Engineer Intern @ Kreativstorm LLC (*February 2025 – March 2025*)**
+**Software Engineer Intern @ Kreativstorm LLC (*February 2025 – March 2025*)**                                                                ![Kreativstorm](port/KS.jfif)
 
 * Remote
 * Contributed to software engineering and development projects.
-
-![Kreativstorm](port/KS.jfif)
 
 ## Projects & Research
 
