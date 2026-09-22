@@ -9,8 +9,8 @@
 * [LinkedIn](https://www.linkedin.com/in/shivaditya-u/)
 
 
-### Currently a Student studying AI and Data Science Saarbrücken
-![University Logo](port/US.png)
+### Currently a Student studying AIML at Darmstadt
+![University Logo](port/TU_Darmstadt_Logo.svg)
 
 
 ## Overview
